@@ -20,7 +20,7 @@ s.author = { "Pero" => "seckovpero@gmail.com" }
 s.homepage = "https://github.com/seckovpero/TVizzyFramework"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/seckovpero/TVizzyFramework.git", :tag => "0.1.0"}
+s.source = { :http => "https://www.dropbox.com/s/khqn7w8xh53x0ib/TVizzyFramework.zip?dl=0"}
 
 # 7
 s.framework = "UIKit"
@@ -28,7 +28,7 @@ s.dependency 'Masonry'
 #s.dependency 'MBProgressHUD', '~> 0.9.0'
 
 # 8
-s.source_files = "TVizzyFramework/**/*.{h,m}"
+#s.source_files = "TVizzyFramework/**/*.{h,m}"
 
 # 9
 #s.resources = "TVizzyFramework/**/*.{png,jpeg,jpg,storyboard,xib}"
